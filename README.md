@@ -75,6 +75,7 @@ src/
     Home.jsx
   api/api.js
   styles/table.css
+  
   🎯 Summary
 
 This project fulfills all assignment requirements:
