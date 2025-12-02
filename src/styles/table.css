@@ -1,0 +1,35 @@
+.styled-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Inter', sans-serif;
+  background: white;
+}
+
+.styled-table thead th {
+  padding: 14px;
+  background: #f3f4f6;
+  text-align: left;
+  font-size: 14px;
+  font-weight: 600;
+  color: #374151;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.styled-table tbody td {
+  padding: 14px;
+  font-size: 14px;
+  color: #111827;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.styled-table tbody tr:hover {
+  background: #f9fafb;
+}
+
+.edit-btn {
+  color: #2563eb;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+}
